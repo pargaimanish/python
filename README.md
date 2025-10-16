@@ -5,7 +5,7 @@ Selenium Scraper:
 I used Selenium to scrape restaurants/cafés from Maps — including reviews, addresses, contacts, and pictures.
 I also tried to create an algorithm for my main project experience to rank cafés/restaurants based on reviews in different categories like ambience, food, and service.
 But that didn’t work out because of fake Google reviews. and same to put all reviews and other stuff - that count as weight. Are pushed by python.
-(At that time, the goal of the project was to create more authentic reviews and ratings.)
+(At that time, the goal of the project was to create more authentic reviews and ratings.) {cafe_putting -> lost the code}
 
 Tesseract OCR:
 
