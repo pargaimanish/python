@@ -1,5 +1,5 @@
 import os 
-path = "/Users/manishpargai/Documents/scrap/Cafes Dharamshala"
+path = "/"
 dir_list = os.listdir(path) 
 print("Files and directories in '", path, "' :") 
 print(dir_list) 
